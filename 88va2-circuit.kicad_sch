@@ -178,7 +178,7 @@
     )
     (pin "1" (uuid a623027d-0897-4714-91d6-2a2b770f5596))
     (instances
-      (project "PWD665"
+      (project "88va2-circuit"
         (path "/8cd193ae-a369-4130-9ba4-f2075fa60e2b"
           (reference "#PWR013") (unit 1)
         )
@@ -203,7 +203,7 @@
     )
     (pin "1" (uuid a4bd76a0-4f44-49c0-8787-57996fd2e791))
     (instances
-      (project "PWD665"
+      (project "88va2-circuit"
         (path "/8cd193ae-a369-4130-9ba4-f2075fa60e2b"
           (reference "#FLG02") (unit 1)
         )
@@ -228,7 +228,7 @@
     )
     (pin "1" (uuid 83f16c3a-e5f6-4313-a275-4eaf5c971563))
     (instances
-      (project "PWD665"
+      (project "88va2-circuit"
         (path "/8cd193ae-a369-4130-9ba4-f2075fa60e2b"
           (reference "#FLG01") (unit 1)
         )
@@ -253,7 +253,7 @@
     )
     (pin "1" (uuid 7f738fc9-4e64-477d-aa75-fefed6880b70))
     (instances
-      (project "PWD665"
+      (project "88va2-circuit"
         (path "/8cd193ae-a369-4130-9ba4-f2075fa60e2b"
           (reference "#FLG03") (unit 1)
         )
@@ -278,7 +278,7 @@
     )
     (pin "1" (uuid 74e96ac6-bdb8-4337-9ee0-0a74f81b46ee))
     (instances
-      (project "PWD665"
+      (project "88va2-circuit"
         (path "/8cd193ae-a369-4130-9ba4-f2075fa60e2b"
           (reference "#PWR012") (unit 1)
         )
@@ -297,7 +297,7 @@
       (effects (font (size 1.27 1.27)) (justify left top))
     )
     (instances
-      (project "PWD665"
+      (project "88va2-circuit"
         (path "/8cd193ae-a369-4130-9ba4-f2075fa60e2b" (page "4"))
       )
     )
@@ -314,7 +314,7 @@
       (effects (font (size 1.27 1.27)) (justify left top))
     )
     (instances
-      (project "PWD665"
+      (project "88va2-circuit"
         (path "/8cd193ae-a369-4130-9ba4-f2075fa60e2b" (page "3"))
       )
     )
@@ -331,7 +331,7 @@
       (effects (font (size 1.27 1.27)) (justify left top))
     )
     (instances
-      (project "PWD665"
+      (project "88va2-circuit"
         (path "/8cd193ae-a369-4130-9ba4-f2075fa60e2b" (page "5"))
       )
     )
@@ -348,7 +348,7 @@
       (effects (font (size 1.27 1.27)) (justify left top))
     )
     (instances
-      (project "PWD665"
+      (project "88va2-circuit"
         (path "/8cd193ae-a369-4130-9ba4-f2075fa60e2b" (page "2"))
       )
     )

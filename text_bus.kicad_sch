@@ -115,7 +115,7 @@
     (pin "C25" (uuid 9d185090-e8e3-4aef-91bc-636c73d34578))
     (pin "B1" (uuid 834c4c4d-c971-4f0c-afb1-8256cb85c960))
     (instances
-      (project "PWD665"
+      (project "88va2-circuit"
         (path "/8cd193ae-a369-4130-9ba4-f2075fa60e2b/7ce583fd-6fd4-415f-bf2b-9ba03e1dfc99"
           (reference "CN4") (unit 1)
         )

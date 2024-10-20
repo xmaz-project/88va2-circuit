@@ -989,7 +989,7 @@
     (pin "A34" (uuid 11b01af3-c2b0-45f3-a488-338a1458b4d4))
     (pin "A30" (uuid 83cf8b47-195b-4c3a-b3a3-ab098a59c4c3))
     (instances
-      (project "PWD665"
+      (project "88va2-circuit"
         (path "/8cd193ae-a369-4130-9ba4-f2075fa60e2b/2ca9362f-b9ab-4d0b-a9b8-cae3f1219ec1"
           (reference "CN2") (unit 1)
         )
@@ -1014,7 +1014,7 @@
     )
     (pin "1" (uuid 15e2b63b-6c76-4e88-a475-5b61e2004eec))
     (instances
-      (project "PWD665"
+      (project "88va2-circuit"
         (path "/8cd193ae-a369-4130-9ba4-f2075fa60e2b/2ca9362f-b9ab-4d0b-a9b8-cae3f1219ec1"
           (reference "#PWR023") (unit 1)
         )

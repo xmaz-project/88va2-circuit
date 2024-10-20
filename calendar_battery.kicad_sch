@@ -1486,7 +1486,7 @@
     (pin "2" (uuid 14905adf-32e0-4d37-9547-d7b47c3dfe23))
     (pin "1" (uuid 722e352c-5314-489c-96b3-f6cf0151120d))
     (instances
-      (project "PWD665"
+      (project "88va2-circuit"
         (path "/8cd193ae-a369-4130-9ba4-f2075fa60e2b/d1ce4ab1-dfff-4863-9bdb-fbcf1ed2ff6f"
           (reference "R66") (unit 1)
         )
@@ -1512,7 +1512,7 @@
     (pin "2" (uuid acc8cce5-3f1c-48dd-8915-e30710957725))
     (pin "1" (uuid fcdfe20a-4dc3-4286-bb40-9bbc50564fec))
     (instances
-      (project "PWD665"
+      (project "88va2-circuit"
         (path "/8cd193ae-a369-4130-9ba4-f2075fa60e2b/d1ce4ab1-dfff-4863-9bdb-fbcf1ed2ff6f"
           (reference "R55") (unit 1)
         )
@@ -1538,7 +1538,7 @@
     (pin "2" (uuid 57768b2a-2bed-4adc-8e8d-84dd6855309c))
     (pin "1" (uuid 9c4b504c-0524-4151-84bd-309e65a0b104))
     (instances
-      (project "PWD665"
+      (project "88va2-circuit"
         (path "/8cd193ae-a369-4130-9ba4-f2075fa60e2b/d1ce4ab1-dfff-4863-9bdb-fbcf1ed2ff6f"
           (reference "TC1") (unit 1)
         )
@@ -1564,7 +1564,7 @@
     (pin "2" (uuid b01c8d01-0cdd-4ecb-a4cb-bb3aa1c57b24))
     (pin "1" (uuid 1f68535c-5c4e-4a97-850c-9698ee673f95))
     (instances
-      (project "PWD665"
+      (project "88va2-circuit"
         (path "/8cd193ae-a369-4130-9ba4-f2075fa60e2b/d1ce4ab1-dfff-4863-9bdb-fbcf1ed2ff6f"
           (reference "R68") (unit 1)
         )
@@ -1590,7 +1590,7 @@
     (pin "2" (uuid 4b4d99c5-0f93-4325-a362-0e63030575c8))
     (pin "1" (uuid b2a22b73-d7a9-42bb-b58c-756377e889c7))
     (instances
-      (project "PWD665"
+      (project "88va2-circuit"
         (path "/8cd193ae-a369-4130-9ba4-f2075fa60e2b/d1ce4ab1-dfff-4863-9bdb-fbcf1ed2ff6f"
           (reference "X2") (unit 1)
         )
@@ -1616,7 +1616,7 @@
     (pin "2" (uuid 1a6e4bd1-0afc-4afe-81e2-82a85d2dc770))
     (pin "1" (uuid 54ce0bae-9ee0-4ace-966c-e7f08e1a3418))
     (instances
-      (project "PWD665"
+      (project "88va2-circuit"
         (path "/8cd193ae-a369-4130-9ba4-f2075fa60e2b/d1ce4ab1-dfff-4863-9bdb-fbcf1ed2ff6f"
           (reference "R62") (unit 1)
         )
@@ -1641,7 +1641,7 @@
     )
     (pin "1" (uuid a9e39302-036a-488a-8ea2-57acdabb1f06))
     (instances
-      (project "PWD665"
+      (project "88va2-circuit"
         (path "/8cd193ae-a369-4130-9ba4-f2075fa60e2b/d1ce4ab1-dfff-4863-9bdb-fbcf1ed2ff6f"
           (reference "#PWR08") (unit 1)
         )
@@ -1668,7 +1668,7 @@
     (pin "2" (uuid 91b82168-f4ba-402b-8197-e00b2384ffe7))
     (pin "3" (uuid f25b76cf-7c9c-472b-9a1e-da7101a3e659))
     (instances
-      (project "PWD665"
+      (project "88va2-circuit"
         (path "/8cd193ae-a369-4130-9ba4-f2075fa60e2b/d1ce4ab1-dfff-4863-9bdb-fbcf1ed2ff6f"
           (reference "Q11") (unit 1)
         )
@@ -1694,7 +1694,7 @@
     (pin "2" (uuid a27c6e26-c719-4dd0-93bd-bae54611e6ac))
     (pin "1" (uuid 85beb01e-5742-4c22-a7fd-aef064a7549e))
     (instances
-      (project "PWD665"
+      (project "88va2-circuit"
         (path "/8cd193ae-a369-4130-9ba4-f2075fa60e2b/d1ce4ab1-dfff-4863-9bdb-fbcf1ed2ff6f"
           (reference "BAT1") (unit 1)
         )
@@ -1720,7 +1720,7 @@
     (pin "2" (uuid 8ed485d3-0253-43f6-9ed5-d8bdc3a4c9a7))
     (pin "1" (uuid bc61659b-a58b-45a0-ac1e-fe8f741c15ff))
     (instances
-      (project "PWD665"
+      (project "88va2-circuit"
         (path "/8cd193ae-a369-4130-9ba4-f2075fa60e2b/d1ce4ab1-dfff-4863-9bdb-fbcf1ed2ff6f"
           (reference "R50") (unit 1)
         )
@@ -1752,7 +1752,7 @@
     (pin "5" (uuid bac91c50-d8de-4afc-952f-006b45d5d7c1))
     (pin "1" (uuid f2ff6202-01cc-446b-8837-02ecd4d816bb))
     (instances
-      (project "PWD665"
+      (project "88va2-circuit"
         (path "/8cd193ae-a369-4130-9ba4-f2075fa60e2b/d1ce4ab1-dfff-4863-9bdb-fbcf1ed2ff6f"
           (reference "MR10") (unit 1)
         )
@@ -1779,7 +1779,7 @@
     (pin "2" (uuid 0f2fb44b-b3fe-45cc-9fd6-c053478d10be))
     (pin "3" (uuid 9f92000e-c4d4-45d7-b793-65515d67b5d6))
     (instances
-      (project "PWD665"
+      (project "88va2-circuit"
         (path "/8cd193ae-a369-4130-9ba4-f2075fa60e2b/d1ce4ab1-dfff-4863-9bdb-fbcf1ed2ff6f"
           (reference "Q10") (unit 1)
         )
@@ -1804,7 +1804,7 @@
     )
     (pin "1" (uuid 0afa4118-1e1e-43a5-aae6-80d8892e372a))
     (instances
-      (project "PWD665"
+      (project "88va2-circuit"
         (path "/8cd193ae-a369-4130-9ba4-f2075fa60e2b/d1ce4ab1-dfff-4863-9bdb-fbcf1ed2ff6f"
           (reference "#PWR09") (unit 1)
         )
@@ -1836,7 +1836,7 @@
     (pin "5" (uuid 2c98b6ae-2419-4936-870e-d17bf39e6f47))
     (pin "1" (uuid 5838062a-88a4-4316-a6ee-67425ae983a7))
     (instances
-      (project "PWD665"
+      (project "88va2-circuit"
         (path "/8cd193ae-a369-4130-9ba4-f2075fa60e2b/d1ce4ab1-dfff-4863-9bdb-fbcf1ed2ff6f"
           (reference "MR9") (unit 1)
         )
@@ -1862,7 +1862,7 @@
     (pin "2" (uuid 1eb7b73f-6f30-4b7a-8b27-fb505014d496))
     (pin "1" (uuid 84bd4b19-128f-4e40-b4f9-45795653d90c))
     (instances
-      (project "PWD665"
+      (project "88va2-circuit"
         (path "/8cd193ae-a369-4130-9ba4-f2075fa60e2b/d1ce4ab1-dfff-4863-9bdb-fbcf1ed2ff6f"
           (reference "R61") (unit 1)
         )
@@ -1887,7 +1887,7 @@
     )
     (pin "1" (uuid 6bc9f6d0-1101-4049-bd10-24a5d4feb06e))
     (instances
-      (project "PWD665"
+      (project "88va2-circuit"
         (path "/8cd193ae-a369-4130-9ba4-f2075fa60e2b/d1ce4ab1-dfff-4863-9bdb-fbcf1ed2ff6f"
           (reference "#PWR06") (unit 1)
         )
@@ -1912,7 +1912,7 @@
     )
     (pin "1" (uuid 452028d0-0cca-470c-be92-5cc77f74f940))
     (instances
-      (project "PWD665"
+      (project "88va2-circuit"
         (path "/8cd193ae-a369-4130-9ba4-f2075fa60e2b/d1ce4ab1-dfff-4863-9bdb-fbcf1ed2ff6f"
           (reference "#PWR02") (unit 1)
         )
@@ -1937,7 +1937,7 @@
     )
     (pin "1" (uuid cdb7a4bd-e5c0-4c55-b4f0-de0849ff2d8d))
     (instances
-      (project "PWD665"
+      (project "88va2-circuit"
         (path "/8cd193ae-a369-4130-9ba4-f2075fa60e2b/d1ce4ab1-dfff-4863-9bdb-fbcf1ed2ff6f"
           (reference "#PWR07") (unit 1)
         )
@@ -1963,7 +1963,7 @@
     (pin "2" (uuid 2c1bae02-f229-49e2-b0c8-8cb0a202f9e1))
     (pin "1" (uuid f7b4348a-e015-4b7c-85e5-020b2ff27ab6))
     (instances
-      (project "PWD665"
+      (project "88va2-circuit"
         (path "/8cd193ae-a369-4130-9ba4-f2075fa60e2b/d1ce4ab1-dfff-4863-9bdb-fbcf1ed2ff6f"
           (reference "R51") (unit 1)
         )
@@ -1988,7 +1988,7 @@
     )
     (pin "1" (uuid aabab93b-f543-4092-8dad-8e9b42bb8b6b))
     (instances
-      (project "PWD665"
+      (project "88va2-circuit"
         (path "/8cd193ae-a369-4130-9ba4-f2075fa60e2b/d1ce4ab1-dfff-4863-9bdb-fbcf1ed2ff6f"
           (reference "#PWR05") (unit 1)
         )
@@ -2014,7 +2014,7 @@
     (pin "2" (uuid 0409de16-829b-4198-a338-e56425700efc))
     (pin "1" (uuid 778a03c6-6159-4c56-8275-00ab12ef8745))
     (instances
-      (project "PWD665"
+      (project "88va2-circuit"
         (path "/8cd193ae-a369-4130-9ba4-f2075fa60e2b/d1ce4ab1-dfff-4863-9bdb-fbcf1ed2ff6f"
           (reference "R67") (unit 1)
         )
@@ -2052,7 +2052,7 @@
     (pin "8" (uuid 1cc1a7e1-f634-457b-99fa-96d92da33787))
     (pin "9" (uuid b12adc7d-ed7f-43f9-9867-a288dc0da2e2))
     (instances
-      (project "PWD665"
+      (project "88va2-circuit"
         (path "/8cd193ae-a369-4130-9ba4-f2075fa60e2b/d1ce4ab1-dfff-4863-9bdb-fbcf1ed2ff6f"
           (reference "IC21") (unit 1)
         )
@@ -2078,7 +2078,7 @@
     (pin "2" (uuid 5befd126-6c21-48b5-b9d9-4c5f490d2fd7))
     (pin "1" (uuid 2ce2eb11-e480-46db-a6d7-20ca0c4f5fce))
     (instances
-      (project "PWD665"
+      (project "88va2-circuit"
         (path "/8cd193ae-a369-4130-9ba4-f2075fa60e2b/d1ce4ab1-dfff-4863-9bdb-fbcf1ed2ff6f"
           (reference "C77") (unit 1)
         )
@@ -2103,7 +2103,7 @@
     )
     (pin "1" (uuid e41f7ed9-0882-4978-8b4d-e9ae860b40f9))
     (instances
-      (project "PWD665"
+      (project "88va2-circuit"
         (path "/8cd193ae-a369-4130-9ba4-f2075fa60e2b/d1ce4ab1-dfff-4863-9bdb-fbcf1ed2ff6f"
           (reference "#PWR011") (unit 1)
         )
@@ -2129,7 +2129,7 @@
     (pin "1" (uuid ce2c70c9-24ec-4dfd-9845-6946775e3f65))
     (pin "2" (uuid 54d5ee0a-ba2a-4f42-b518-aff45138e8f7))
     (instances
-      (project "PWD665"
+      (project "88va2-circuit"
         (path "/8cd193ae-a369-4130-9ba4-f2075fa60e2b/d1ce4ab1-dfff-4863-9bdb-fbcf1ed2ff6f"
           (reference "ZD1") (unit 1)
         )
@@ -2156,7 +2156,7 @@
     (pin "2" (uuid ef655e2a-1d0f-4a61-8821-7cab694cca40))
     (pin "1" (uuid cb2e562d-b52f-4d3e-8419-a12a32216067))
     (instances
-      (project "PWD665"
+      (project "88va2-circuit"
         (path "/8cd193ae-a369-4130-9ba4-f2075fa60e2b/d1ce4ab1-dfff-4863-9bdb-fbcf1ed2ff6f"
           (reference "Q9") (unit 1)
         )
@@ -2181,7 +2181,7 @@
     )
     (pin "1" (uuid da6b9fac-4531-4b69-b284-43c4033ed915))
     (instances
-      (project "PWD665"
+      (project "88va2-circuit"
         (path "/8cd193ae-a369-4130-9ba4-f2075fa60e2b/d1ce4ab1-dfff-4863-9bdb-fbcf1ed2ff6f"
           (reference "#PWR04") (unit 1)
         )
@@ -2207,7 +2207,7 @@
     (pin "2" (uuid 527480e6-d838-47d0-9c25-68da7b6594c1))
     (pin "1" (uuid 69c36293-1d95-4496-b03b-8f2eb574126f))
     (instances
-      (project "PWD665"
+      (project "88va2-circuit"
         (path "/8cd193ae-a369-4130-9ba4-f2075fa60e2b/d1ce4ab1-dfff-4863-9bdb-fbcf1ed2ff6f"
           (reference "C13") (unit 1)
         )
@@ -2232,7 +2232,7 @@
     )
     (pin "1" (uuid 0a3e2017-91f4-48c2-9725-defde187291b))
     (instances
-      (project "PWD665"
+      (project "88va2-circuit"
         (path "/8cd193ae-a369-4130-9ba4-f2075fa60e2b/d1ce4ab1-dfff-4863-9bdb-fbcf1ed2ff6f"
           (reference "#PWR01") (unit 1)
         )
@@ -2257,7 +2257,7 @@
     )
     (pin "1" (uuid 1b7e5ca8-8eaf-494a-a4ec-9931ea3e4eba))
     (instances
-      (project "PWD665"
+      (project "88va2-circuit"
         (path "/8cd193ae-a369-4130-9ba4-f2075fa60e2b/d1ce4ab1-dfff-4863-9bdb-fbcf1ed2ff6f"
           (reference "#PWR010") (unit 1)
         )
@@ -2282,7 +2282,7 @@
     )
     (pin "1" (uuid 1321ff01-7af1-45b1-bbee-3c42a6f41106))
     (instances
-      (project "PWD665"
+      (project "88va2-circuit"
         (path "/8cd193ae-a369-4130-9ba4-f2075fa60e2b/d1ce4ab1-dfff-4863-9bdb-fbcf1ed2ff6f"
           (reference "#PWR03") (unit 1)
         )
