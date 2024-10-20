@@ -172,6 +172,7 @@
       "track_widths": [
         0.0,
         0.15,
+        0.3,
         0.635,
         1.27
       ],
@@ -505,6 +506,10 @@
     [
       "2ca9362f-b9ab-4d0b-a9b8-cae3f1219ec1",
       "fdd"
+    ],
+    [
+      "7ce583fd-6fd4-415f-bf2b-9ba03e1dfc99",
+      "Text Bus"
     ]
   ],
   "text_variables": {}
