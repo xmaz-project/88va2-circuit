@@ -320,6 +320,23 @@
     )
   )
 
+  (sheet (at 127 143.51) (size 12.7 10.16) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 69b5e096-b79d-4084-a9d7-aa17e9aa2515)
+    (property "Sheetname" "GAL3" (at 127 142.7984 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "gal3.kicad_sch" (at 127 154.2546 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "88va2-circuit"
+        (path "/8cd193ae-a369-4130-9ba4-f2075fa60e2b" (page "7"))
+      )
+    )
+  )
+
   (sheet (at 127 107.95) (size 13.97 10.16) (fields_autoplaced)
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
@@ -350,6 +367,23 @@
     (instances
       (project "88va2-circuit"
         (path "/8cd193ae-a369-4130-9ba4-f2075fa60e2b" (page "2"))
+      )
+    )
+  )
+
+  (sheet (at 127 127) (size 12.7 7.62) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid f59e7f94-cf7f-47b7-8dfe-df68bce2aad2)
+    (property "Sheetname" "GAL2" (at 127 126.2884 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "gal2.kicad_sch" (at 127 135.2046 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "88va2-circuit"
+        (path "/8cd193ae-a369-4130-9ba4-f2075fa60e2b" (page "6"))
       )
     )
   )
