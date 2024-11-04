@@ -965,7 +965,7 @@
     (property "Value" "D65101GD110" (at 139.3541 72.39 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "88va_Library:QFP-160_28x28_Pitch0.635mm" (at 137.16 72.39 0)
+    (property "Footprint" "88va_Library:QFP-160_27.8x27.8_Pitch0.65mm" (at 137.16 72.39 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 137.16 72.39 0)
