@@ -337,6 +337,23 @@
     )
   )
 
+  (sheet (at 127 161.29) (size 12.7 7.62) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 76916e6e-91c4-4399-b840-8694698835e3)
+    (property "Sheetname" "GVRAM" (at 127 160.5784 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "gvram.kicad_sch" (at 127 169.4946 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "88va2-circuit"
+        (path "/8cd193ae-a369-4130-9ba4-f2075fa60e2b" (page "8"))
+      )
+    )
+  )
+
   (sheet (at 127 107.95) (size 13.97 10.16) (fields_autoplaced)
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
