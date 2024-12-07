@@ -580,6 +580,10 @@
           (name "???" (effects (font (size 1.27 1.27))))
           (number "94" (effects (font (size 1.27 1.27))))
         )
+        (pin unspecified line (at 15.24 -168.91 180) (length 5.08)
+          (name "???" (effects (font (size 1.27 1.27))))
+          (number "96" (effects (font (size 1.27 1.27))))
+        )
         (pin no_connect line (at 15.24 -92.71 180) (length 5.08)
           (name "" (effects (font (size 1.27 1.27))))
           (number "97" (effects (font (size 1.27 1.27))))
@@ -1144,6 +1148,10 @@
   (wire (pts (xy 82.55 227.33) (xy 69.85 227.33))
     (stroke (width 0) (type default))
     (uuid 0174337e-b5e7-45f3-a7ed-57a1e174f76b)
+  )
+  (wire (pts (xy 67.31 358.14) (xy 88.9 358.14))
+    (stroke (width 0) (type default))
+    (uuid 01aebf36-160a-4f91-a594-2c6a7fd61769)
   )
   (wire (pts (xy 69.85 279.4) (xy 82.55 279.4))
     (stroke (width 0) (type default))
@@ -1942,6 +1950,32 @@
     )
   )
 
+  (symbol (lib_id "Device:R_Small") (at 91.44 358.14 90) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
+    (uuid 0551bb42-c72f-49c0-906a-6305c7e92a99)
+    (property "Reference" "R118" (at 88.9 355.6 90)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Value" "22" (at 93.98 355.6 90)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Footprint" "Resistor_SMD:R_1206_3216Metric" (at 91.44 358.14 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 91.44 358.14 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "2" (uuid 9be20cd2-e2d8-4b35-b4ec-876a5e354f21))
+    (pin "1" (uuid 98887d4d-dff7-4b63-92a3-15f8260220b8))
+    (instances
+      (project "88va2-circuit"
+        (path "/8cd193ae-a369-4130-9ba4-f2075fa60e2b/69b5e096-b79d-4084-a9d7-aa17e9aa2515"
+          (reference "R118") (unit 1)
+        )
+      )
+    )
+  )
+
   (symbol (lib_id "88va_Library:GAL") (at 52.07 189.23 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 0b3db5a5-cf84-4d31-b730-b3db9ece82e2)
@@ -2046,6 +2080,7 @@
     (pin "123" (uuid 3c64da2b-efee-4659-b642-ddd337ceab27))
     (pin "90" (uuid 71520ffb-a5dd-4622-b652-f2533bea97c9))
     (pin "94" (uuid c53c7a0a-9f23-4ae1-9b4a-4a0cdec1018e))
+    (pin "96" (uuid f9700cc1-cd27-4d61-9fd3-0d820b4ca55a))
     (instances
       (project "88va2-circuit"
         (path "/8cd193ae-a369-4130-9ba4-f2075fa60e2b/69b5e096-b79d-4084-a9d7-aa17e9aa2515"
