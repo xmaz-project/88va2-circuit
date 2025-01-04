@@ -320,6 +320,23 @@
     )
   )
 
+  (sheet (at 162.56 33.02) (size 15.24 10.16) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 605c9c3f-be07-475c-99c8-c23c6df2722c)
+    (property "Sheetname" "System Bus" (at 162.56 32.3084 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "system_bus.kicad_sch" (at 162.56 43.7646 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "88va2-circuit"
+        (path "/8cd193ae-a369-4130-9ba4-f2075fa60e2b" (page "10"))
+      )
+    )
+  )
+
   (sheet (at 127 143.51) (size 12.7 10.16) (fields_autoplaced)
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
@@ -367,6 +384,23 @@
     (instances
       (project "88va2-circuit"
         (path "/8cd193ae-a369-4130-9ba4-f2075fa60e2b" (page "5"))
+      )
+    )
+  )
+
+  (sheet (at 162.56 54.61) (size 15.24 8.89) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid a9ec1b06-0436-45c3-a7a0-5c02e89a41c5)
+    (property "Sheetname" "Display Clock Generator" (at 162.56 53.8984 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "display_clock_generator.kicad_sch" (at 162.56 64.0846 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "88va2-circuit"
+        (path "/8cd193ae-a369-4130-9ba4-f2075fa60e2b" (page "11"))
       )
     )
   )

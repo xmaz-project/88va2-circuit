@@ -527,6 +527,14 @@
     [
       "b24159c5-a6e1-4bb0-b734-d29260f70f4e",
       "VDP"
+    ],
+    [
+      "605c9c3f-be07-475c-99c8-c23c6df2722c",
+      "System Bus"
+    ],
+    [
+      "a9ec1b06-0436-45c3-a7a0-5c02e89a41c5",
+      "Display Clock Generator"
     ]
   ],
   "text_variables": {}
