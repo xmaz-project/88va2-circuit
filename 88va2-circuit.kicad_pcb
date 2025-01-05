@@ -5150,8 +5150,6 @@
     )
 
     (stroke (width 0.1) (type solid)) (fill solid) (layer "Cmts.User") (tstamp 1460e3d0-f73c-4c15-afd7-d36674e74fe6))
-  (gr_line (start 191.405 66.3475) (end 192.675 66.3475)
-    (stroke (width 0.1) (type default)) (layer "Cmts.User") (tstamp 18e5bd7b-db75-4dd6-bd81-8abf3012a442))
   (gr_poly
     (pts
       (xy 118.6975 80.3175)
@@ -5184,8 +5182,6 @@
     (stroke (width 0.1) (type solid)) (fill solid) (layer "Cmts.User") (tstamp 4ef6f379-c1c4-4e93-bf54-0f0a92cbbdfa))
   (gr_line (start 366.665 210.81) (end 370.1575 210.81)
     (stroke (width 0.1) (type default)) (layer "Cmts.User") (tstamp 556dba78-e3e4-4518-a251-51795e13606f))
-  (gr_line (start 192.675 66.3475) (end 192.675 67.6175)
-    (stroke (width 0.1) (type default)) (layer "Cmts.User") (tstamp 58e5671c-7960-40aa-987a-9bafbf8437f5))
   (gr_poly
     (pts
       (xy 149.495 64.125)
@@ -5236,19 +5232,7 @@
   (gr_text "B1" (at 139.97 203.19) (layer "F.SilkS") (tstamp ade2917f-d126-4088-bfa2-b9001b5eee57)
     (effects (font (size 1 1) (thickness 0.1)) (justify left bottom))
   )
-  (gr_text "移動しない" (at 212.0425 71.745) (layer "Cmts.User") (tstamp 1265aaea-ddf6-4783-807c-1bd2a61e8d2a)
-    (effects (font (size 1 1) (thickness 0.15)) (justify left bottom))
-  )
-  (gr_text "1マス上へ" (at 211.4075 56.505) (layer "Cmts.User") (tstamp 2506feb8-43fe-4e12-8fa4-1de0047529d1)
-    (effects (font (size 1 1) (thickness 0.15)) (justify left bottom))
-  )
-  (gr_text "1マス上へ" (at 211.4075 59.3625) (layer "Cmts.User") (tstamp 529ae052-6475-4c5a-bfd4-866c295ec4aa)
-    (effects (font (size 1 1) (thickness 0.15)) (justify left bottom))
-  )
   (gr_text "IC31とIC43の合間" (at 259.985 177.155) (layer "Cmts.User") (tstamp 59fec1e5-fba2-40f7-a854-15b1d66a1a84)
-    (effects (font (size 1 1) (thickness 0.15)) (justify left bottom))
-  )
-  (gr_text "1マス上へ" (at 211.4075 51.7425) (layer "Cmts.User") (tstamp 77cdf21d-77d8-4ab6-b77a-7541c67c6555)
     (effects (font (size 1 1) (thickness 0.15)) (justify left bottom))
   )
   (gr_text "IC16ソケットの下へ" (at 174.26 130.165) (layer "Cmts.User") (tstamp e4b0af67-8458-4058-8c2a-c3d27b07abad)
@@ -6092,6 +6076,9 @@
   (segment (start 221.25 28.2475) (end 221.25 19.675) (width 1.27) (layer "F.Cu") (net 11) (tstamp 8c9339ad-d2b4-4a4f-a534-1ff154a0579c))
   (segment (start 229.8225 28.2475) (end 221.25 28.2475) (width 1.27) (layer "F.Cu") (net 11) (tstamp cb645f58-8073-4dfb-a3ca-779c38789172))
   (segment (start 184.1025 19.675) (end 184.1025 24.4375) (width 1.27) (layer "F.Cu") (net 11) (tstamp d13bbf3b-6ae2-4d64-8cb9-05057ba6d90c))
+  (segment (start 192.675 41.9) (end 192.675 40.63) (width 0.05) (layer "F.Cu") (net 11) (tstamp f1f95829-9d74-4c0c-9e69-1098ac797ae5))
+  (segment (start 200.295 40.63) (end 200.295 41.9) (width 0.05) (layer "F.Cu") (net 11) (tstamp f607171a-327c-45d5-a38b-3b33de900640))
+  (segment (start 200.295 41.9) (end 192.675 41.9) (width 0.05) (layer "F.Cu") (net 11) (tstamp fe8fa872-97d2-4c8d-8834-4d3fce8b3f9a))
   (via (at 184.1025 23.1675) (size 0.6) (drill 0.3) (layers "F.Cu" "B.Cu") (net 11) (tstamp 2608bc5b-aa71-49a0-bcd5-aa38efd8ba6b))
   (via (at 232.045 112.385) (size 0.6) (drill 0.3) (layers "F.Cu" "B.Cu") (net 11) (tstamp 585a8416-f838-4d24-9d67-bf36f3ab21a9))
   (via (at 184.1025 24.4375) (size 0.6) (drill 0.3) (layers "F.Cu" "B.Cu") (net 11) (tstamp a2ac5db2-14ce-4f0a-a7f5-b24a93d6ccc5))
