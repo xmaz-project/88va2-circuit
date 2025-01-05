@@ -5764,6 +5764,8 @@
     )
 
     (stroke (width 0.1) (type solid)) (fill solid) (layer "Cmts.User") (tstamp 00d2e7b8-2477-40a5-af2d-2df1cb284625))
+  (gr_line (start 147.2725 92.7) (end 147.2725 98.415)
+    (stroke (width 0.1) (type default)) (layer "Cmts.User") (tstamp 0821f858-add2-4d32-ac60-c5fb7a11e47a))
   (gr_poly
     (pts
       (xy 120.92 77.7775)
@@ -5814,10 +5816,16 @@
     (stroke (width 0.1) (type solid)) (fill solid) (layer "Cmts.User") (tstamp 5abf43ee-f9bb-4372-9792-7c33bcfed206))
   (gr_line (start 172.0375 109.21) (end 140.2875 109.21)
     (stroke (width 0.1) (type default)) (layer "Cmts.User") (tstamp 78b412a0-6590-47b6-86f6-a32b8748fbfd))
+  (gr_line (start 146.955 86.985) (end 146.955 93.335)
+    (stroke (width 0.1) (type default)) (layer "Cmts.User") (tstamp 792f6747-eefc-4f97-a0a6-1ce39736d85e))
   (gr_line (start 152.035 50.4725) (end 152.035 55.87)
     (stroke (width 0.1) (type default)) (layer "Cmts.User") (tstamp a38d17a5-a309-42a1-b1bf-c6e58727cca0))
   (gr_line (start 25.035 29.835) (end 25.035 112.385)
     (stroke (width 0.1) (type default)) (layer "Cmts.User") (tstamp a3ec2b33-7b19-4803-8351-49d3d6ec56c8))
+  (gr_line (start 143.4625 93.6525) (end 147.2725 94.2875)
+    (stroke (width 0.1) (type default)) (layer "Cmts.User") (tstamp b64aa929-7dfa-4a4f-a04f-e313ca7c02f1))
+  (gr_line (start 146.955 92.7) (end 143.4625 93.6525)
+    (stroke (width 0.1) (type solid)) (layer "Cmts.User") (tstamp df8d9789-70d6-4fa7-bad9-bdd3c57b5a5f))
   (gr_line (start 366.665 210.81) (end 366.03 210.81)
     (stroke (width 0.1) (type default)) (layer "Cmts.User") (tstamp e3cb5120-e18d-4278-9f83-e433fe18ed70))
   (gr_line (start 172.0375 96.51) (end 140.2875 96.51)
@@ -5862,6 +5870,12 @@
     (effects (font (size 1 1) (thickness 0.15)) (justify left bottom))
   )
   (gr_text "IC16ソケットの下へ" (at 174.26 130.165) (layer "Cmts.User") (tstamp e4b0af67-8458-4058-8c2a-c3d27b07abad)
+    (effects (font (size 1 1) (thickness 0.15)) (justify left bottom))
+  )
+  (gr_text "実物ではこの2つの垂直線が一致。\nこの図ではどこかで0.3175mm(1/80in)ずれてしまっている。" (at 143.4625 93.6525) (layer "Cmts.User") (tstamp e91d7957-5786-47b2-9d72-32e8dfa21ae2)
+    (effects (font (size 1 1) (thickness 0.15)) (justify right bottom))
+  )
+  (gr_text "TODO: 上へ3グリッド移動" (at 213.9475 96.51) (layer "Cmts.User") (tstamp f5d147ce-9acb-4cd1-9cdb-0ca6b4e667c3)
     (effects (font (size 1 1) (thickness 0.15)) (justify left bottom))
   )
   (gr_text_box "レイヤー\n- F.Cu   表\n- In1.Cu 内層 GND\n- In2.Cu 内層 +5V\n- B.Cu   裏\n\n正確性について\n- 部品等に隠れて目視確認できない部分は推測を含む\n- 内層は端子間の接続を満たす目的で配線しており、\n  パターンの位置は実物を全く反映していない"
