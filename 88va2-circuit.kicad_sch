@@ -314,7 +314,7 @@
     (property "Sheetname" "V1 V2 Mode Emurator" (at 76.2 50.0884 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Sheetfile" "v1_v2_emulation.kicad_sch" (at 76.2 64.0846 0)
+    (property "Sheetfile" "v1_v2_emulator.kicad_sch" (at 76.2 64.0846 0)
       (effects (font (size 1.27 1.27)) (justify left top))
     )
     (instances
