@@ -5,8 +5,8 @@
   (paper "A4")
 
   (title_block
-    (title "ディスプレイ・クロック・ジェネレータ")
-    (comment 1 "VA1回路図 P.262")
+    (title "ディスプレイクロック ジェネレータ")
+    (comment 1 "VA1回路図 P.263")
   )
 
   (lib_symbols
@@ -1500,7 +1500,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid f4181ade-f13d-46b3-8568-7677be0266e4)
   )
-  (text "VA1回路図ではこの辺りに存在するALS02(NOR), ALS04(NOT)は\nVA2には無く、IC9からの信号が直結されている。"
+  (text "VA1回路図でこの辺りに存在するALS02(NOR), ALS04(NOT)は\nVA2には無く、IC9からの信号が直結されている。"
     (at 105.41 176.53 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid f6c059e6-227d-435e-8042-e85dc139681b)

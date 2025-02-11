@@ -5,6 +5,7 @@
   (paper "A3" portrait)
 
   (title_block
+    (title "グラフィックVRAM")
     (comment 1 "VA1回路図 P.258-259")
   )
 

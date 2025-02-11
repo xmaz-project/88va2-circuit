@@ -5,6 +5,7 @@
   (paper "A3" portrait)
 
   (title_block
+    (title "GAL-3")
     (comment 1 "VA1回路図 P.253")
   )
 

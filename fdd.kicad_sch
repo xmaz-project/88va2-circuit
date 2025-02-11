@@ -4,6 +4,11 @@
 
   (paper "A4")
 
+  (title_block
+    (title "FDDコネクタ")
+    (comment 1 "VA1回路図 P.245")
+  )
+
   (lib_symbols
     (symbol "Connector_Generic:Conn_02x34_Row_Letter_First" (pin_names (offset 1.524)) (in_bom yes) (on_board yes)
       (property "Reference" "CN2" (at 0 46.99 0)

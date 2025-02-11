@@ -4,6 +4,11 @@
 
   (paper "A4")
 
+  (title_block
+    (title "V1/V2モード エミュレータ")
+    (comment 1 "VA1回路図 P.250")
+  )
+
   (lib_symbols
     (symbol "88va_Library:7407" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
       (property "Reference" "IC" (at 0 1.27 0)

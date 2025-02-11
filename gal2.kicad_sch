@@ -4,6 +4,11 @@
 
   (paper "A4")
 
+  (title_block
+    (title "GAL-2")
+    (comment 1 "VA1回路図 P.252")
+  )
+
   (lib_symbols
     (symbol "88va_Library:GAL" (in_bom yes) (on_board yes)
       (property "Reference" "IC1" (at 5.08 5.08 0)

@@ -4,6 +4,11 @@
 
   (paper "A4")
 
+  (title_block
+    (title "カレンダクロック・バックアップ電池")
+    (comment 1 "VA1回路図 P.262")
+  )
+
   (lib_symbols
     (symbol "88va_Library:Q_NPN" (pin_numbers hide) (pin_names (offset 0)) (in_bom yes) (on_board yes)
       (property "Reference" "Q" (at 5.08 1.27 0)

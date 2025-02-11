@@ -4,6 +4,11 @@
 
   (paper "A4")
 
+  (title_block
+    (title "テキスト基板コネクタ")
+    (comment 1 "VA1回路図 該当なし")
+  )
+
   (lib_symbols
     (symbol "88va_Library:Bus_Text" (in_bom yes) (on_board yes)
       (property "Reference" "CN4" (at 0 30.48 0)
