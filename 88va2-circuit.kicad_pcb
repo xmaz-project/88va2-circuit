@@ -5835,8 +5835,12 @@
   (gr_text "実物ではこの2つの垂直線が一致。\nこの図ではどこかで0.3175mm(1/80in)ずれてしまっている。" (at 143.4625 93.6525) (layer "Cmts.User") (tstamp e91d7957-5786-47b2-9d72-32e8dfa21ae2)
     (effects (font (size 1 1) (thickness 0.15)) (justify right bottom))
   )
-  (gr_text_box "レイヤー\n- F.Cu   表\n- In1.Cu 内層 GND\n- In2.Cu 内層 +5V\n- B.Cu   裏\n\n正確性について\n- 部品等に隠れて目視確認できない部分は推測を含む\n- 内層は端子間の接続を満たす目的で配線しており、\n  パターンの位置は実物を全く反映していない"
-    (start 15.1925 259.07) (end 49.4825 279.39) (layer "Cmts.User") (tstamp bfa0316f-0aea-487d-bec6-85e6ee1a378f)
+  (gr_text_box "レイヤー\n- F.Cu   表\n- In1.Cu 内層 GND\n- In2.Cu 内層 +5V\n- B.Cu   裏\n\n正確性について\n- 部品等に隠れて目視確認できない部分は推測を含む\n- 上記のような推測の配線は幅0.050mmで記載した\n- 内層は電源(+5V/GND)であるが、端子間の接続を満たす目的で\n  配線しており、パターンの位置は実物を全く反映していない"
+    (start 15.1925 259.07) (end 59.96 279.39) (layer "Cmts.User") (tstamp bfa0316f-0aea-487d-bec6-85e6ee1a378f)
+      (effects (font (size 1 1) (thickness 0.15)) (justify left top))
+    (stroke (width 0.1) (type solid))  )
+  (gr_text_box "備考\n- スルーホールと配線との間は、目視で接続が確認できる場合でも、\n  テスタで接続が未確認の場合は、スルーホールの近くで配線を止め、\n  意図的に未接続としている場合がある。"
+    (start 62.5 259.07) (end 107.2675 279.39) (layer "Cmts.User") (tstamp edd5ef28-81b8-4e2a-a4e5-a4140976b5e5)
       (effects (font (size 1 1) (thickness 0.15)) (justify left top))
     (stroke (width 0.1) (type solid))  )
   (dimension (type aligned) (layer "Cmts.User") (tstamp 17e0a0be-79d9-44a3-93fb-cac7091b6f98)
